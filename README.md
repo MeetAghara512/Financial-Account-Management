@@ -1,4 +1,4 @@
-# 💰 Financial-Account-Management: Take Control of Your Finances 📊
+# 💰 Financial-Account-Management(MoneyMate-Account): Take Control of Your Finances 📊
 
 **A Java-based application designed using OOP concepts to help users efficiently manage their personal finances by tracking income and expenses, providing valuable insights into their financial health.**
 
@@ -33,12 +33,12 @@ To set up and run the application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MeetAghara512/Financial-Account-Management.git
+   https://github.com/MeetAghara512/MoneyMate-Account.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Financial-Account-Management
+   cd MoneyMate-Account
    ```
 
 3. **Compile All Source Files**:
